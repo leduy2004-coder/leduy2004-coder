@@ -37,23 +37,12 @@ I'm a student currently seeking a **Java Backend Internship** opportunity.
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Ritik%20Rawal's%20GitHub%20Stats" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Le%20Duy%27s%20GitHub%20Stats" alt="Le Duy's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" width="49%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leduy2004-coder&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/leduy2004-coder/MusicLD-Backend.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leduy2004-coder&repo=MusicLD-Backend&theme=radical" />
-  </a>
-  <a href="https://github.com/leduy2004-coder/Ecommerce.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leduy2004-coder&repo=Ecommerce&theme=radical" />
-  </a>
 </div>
 
 ## 📫 Let's Connect
@@ -66,17 +55,17 @@ I'm a student currently seeking a **Java Backend Internship** opportunity.
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://zalo.me/0358544909">
-    <img src="https://img.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
   </a>
   <a href="https://github.com/leduy2004-coder">
-    <img src="https://img.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.io/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.io/github/followers/leduy2004-coder?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/leduy2004-coder?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
