@@ -37,8 +37,16 @@ I'm a student currently seeking a **Java Backend Internship** opportunity.
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Le%20Duy%27s%20GitHub%20Stats" alt="Le Duy's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" width="49%" />
+  <table>
+    <tr>
+      <td style="vertical-align: top; width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats" alt="My GitHub Stats" />
+      </td>
+      <td style="vertical-align: top; width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
