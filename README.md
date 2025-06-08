@@ -1,22 +1,19 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;I'm+Le+Duy;Java+Backend+Developer;ReactJS+Frontend+Developer;Let's+Code+Something+Awesome!" alt="Typing SVG" />
-</div>
+# Hi, I'm Le Duy
+
+A passionate Web Developer in making.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leduy2004-coder&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/repos/leduy2004-coder?style=flat-square&label=Repos" alt="Total Repositories" />
+  <img src="https://img.shields.io/github/commits-since/leduy2004-coder/main?style=flat-square&label=Commits%20this%20month" alt="Commits this month" />
 </div>
 
 ## 💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical" alt="Top Languages" />
+I'm a student currently seeking a **Java Backend Internship** opportunity.
 
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+## 🛠️ Technology Stack
 
-Passionate full-stack developer crafting robust and scalable web applications. By day, I'm a Java backend ninja and React frontend warrior. By night, I'm still coding because sleep is for the weak! 💪
-
-## 🛠️ Tech Arsenal
-
-### Backend Development
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -24,20 +21,12 @@ Passionate full-stack developer crafting robust and scalable web applications. B
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### Frontend Development
-<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-### Development Tools
-<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -45,21 +34,25 @@ Passionate full-stack developer crafting robust and scalable web applications. B
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Ritik%20Rawal's%20GitHub%20Stats" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leduy2004-coder&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎵 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/leduy2004-coder/MusicLD-Backend.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leduy2004-coder&repo=music-platform&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leduy2004-coder&repo=MusicLD-Backend&theme=radical" />
   </a>
   <a href="https://github.com/leduy2004-coder/Ecommerce.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leduy2004-coder&repo=ecommerce-platform&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leduy2004-coder&repo=Ecommerce&theme=radical" />
   </a>
 </div>
 
@@ -73,21 +66,17 @@ Passionate full-stack developer crafting robust and scalable web applications. B
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://zalo.me/0358544909">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+    <img src="https://img.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
   </a>
   <a href="https://github.com/leduy2004-coder">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/leduy2004-coder?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/leduy2004-coder/leduy2004-coder/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://komarev.io/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.io/github/followers/leduy2004-coder?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
