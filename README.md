@@ -1,6 +1,6 @@
-# Hi, I'm Le Duy
-
-A passionate Web Developer in making.
+<div align="center">
+  <img src="https://github.com/Ritik-Rawal/Ritik-Rawal/blob/main/Cover.gif" alt="Header Image" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
@@ -10,7 +10,7 @@ A passionate Web Developer in making.
 
 ## 💻 About Me
 
-I'm a student currently seeking a **Java Backend Internship** opportunity.
+I'm a student currently seeking a **Java Backend Internship** opportunity. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms skills 📈.
 
 ## 🛠️ Technology Stack
 
@@ -40,7 +40,7 @@ I'm a student currently seeking a **Java Backend Internship** opportunity.
   <table>
     <tr>
       <td style="vertical-align: top; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats" alt="My GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Le%20Duy%27s%20GitHub%20Stats" alt="Le Duy's GitHub Stats" />
       </td>
       <td style="vertical-align: top; width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
