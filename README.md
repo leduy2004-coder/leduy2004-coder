@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="https://github.com/Ritik-Rawal/Ritik-Rawal/blob/main/Cover.gif" alt="Header Image" width="100%" />
-</div>
+<p align="center">
+  <img src="strategy.png" alt="Header Image">
+</p>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- To change the text, visit https://readme-typing-svg.demolab.com/ -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=430&lines=Hey+there!;I%27m+a+Student!;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leduy2004-coder&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/repos/leduy2004-coder?style=flat-square&label=Repos" alt="Total Repositories" />
-  <img src="https://img.shields.io/github/commits-since/leduy2004-coder/main?style=flat-square&label=Commits%20this%20month" alt="Commits this month" />
-</div>
 
 ## 💻 About Me
 
