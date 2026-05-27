@@ -10,7 +10,12 @@
 
 ## 💻 About Me
 
-I'm a student currently seeking a **Java Backend Internship** opportunity. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms skills 📈.
+I'm currently working as a Junior Fullstack Developer with a strong focus on Java Backend Development. I enjoy building scalable backend systems as well as creating responsive and user-friendly frontend applications. Passionate about technology, I’m always eager to learn new tools, frameworks, and best practices to improve both development efficiency and product quality ✨
+
+My main interests are Web Development, system design, and software architecture. I continuously work on improving my problem-solving abilities and Data Structures & Algorithms knowledge to become a better engineer every day 📈
+
+Beyond coding, I enjoy collaborating with teams, sharing knowledge, and helping junior developers and newcomers grow in their development journey 👨‍💻.
+
 
 ## 🛠️ Technology Stack
 
