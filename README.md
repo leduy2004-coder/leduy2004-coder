@@ -51,32 +51,10 @@ I use AI as a coding partner to speed up learning, debug faster, review code, an
 
 ## 📊 My GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=leduy2004-coder&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduy2004-coder&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=leduy2004-coder&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leduy2004-coder&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leduy2004-coder&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 📫 Let's Connect
 
