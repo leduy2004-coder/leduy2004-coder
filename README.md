@@ -12,6 +12,8 @@ I'm currently working as a Junior Fullstack Developer with a strong focus on Jav
 
 My main interests are Web Development, system design, and software architecture. I continuously work on improving my problem-solving abilities and Data Structures & Algorithms knowledge to become a better engineer every day 📈
 
+I also deploy my projects to a VPS with automated CI/CD pipelines using GitHub Actions, so every push can be built, tested, and released smoothly 🚀
+
 Beyond coding, I enjoy collaborating with teams, sharing knowledge, and helping junior developers and newcomers grow in their development journey 👨‍💻.
 
 ## 🛠️ Technology Stack
@@ -31,6 +33,9 @@ Beyond coding, I enjoy collaborating with teams, sharing knowledge, and helping 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4B32C3?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPS_Deployment-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" />
@@ -43,10 +48,10 @@ I use AI as a coding partner to speed up learning, debug faster, review code, an
 <div align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
 </div>
 
 ## 📊 My GitHub Stats
